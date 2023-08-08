@@ -1,0 +1,228 @@
+﻿READ_CODE,DESCRIPTION
+b2...,THIAZIDE DIURETICS
+b21..,BENDROFLUMETHIAZIDE
+b211.,BENDROFLUMETHIAZIDE 2.5mg tablets
+b212.,BENDROFLUMETHIAZIDE 5mg tablets
+b213.,APRINOX 2.5mg tablets
+b214.,APRINOX 5mg tablets
+b215.,*BERKOZIDE 2.5mg tablets
+b216.,*BERKOZIDE 5mg tablets
+b217.,*CENTYL 2.5mg tablets
+b218.,*CENTYL 5mg tablets
+b219.,NEO-NACLEX 5mg tablets
+b21A.,*NEO-BENDROMAX 2.5mg tablets
+b21B.,*NEO-BENDROMAX 5mg tablets
+b21a.,*URIZIDE 5mg tablets
+b21b.,NEO-NACLEX 2.5mg tablets
+b22..,CHLOROTHIAZIDE
+b221.,*SALURIC 500mg tablets
+b222.,DIURIL 250mg/5mL oral suspension
+b22y.,CHLOROTHIAZIDE 250mg/5mL oral suspension
+b22z.,*CHLOROTHIAZIDE 500mg tablets
+b23..,CHLORTALIDONE
+b231.,HYGROTON 50mg tablets
+b232.,*HYGROTON 100mg tablets
+b23y.,CHLORTALIDONE 50mg tablets
+b23z.,*CHLORTHALIDONE 100mg tablets
+b24..,CLOPAMIDE [INGREDIENT see bdek]
+b25..,CYCLOPENTHIAZIDE
+b251.,NAVIDREX 500micrograms tablets
+b25z.,CYCLOPENTHIAZIDE 500microgram tablets
+b26..,HYDROCHLOROTHIAZIDE
+b261.,*ESIDREX 25mg tablets
+b262.,*ESIDREX 50mg tablets
+b263.,*HYDROSALURIC 25mg tablets
+b264.,*HYDROSALURIC 50mg tablets
+b26y.,HYDROCHLOROTHIAZIDE 50mg tablets
+b26z.,HYDROCHLOROTHIAZIDE 25mg tablets
+b27..,HYDROFLUMETHIAZIDE
+b271.,*HYDRENOX 50mg tablets
+b27z.,HYDROFLUMETHIAZIDE 50mg tablets
+b28..,INDAPAMIDE
+b281.,NATRILIX 2.5mg tablets
+b282.,*NINDAXA 2.5mg tablets
+b283.,*NATRAMID 2.5mg tablets
+b284.,*OPUMIDE 2.5mg tablets
+b285.,INDAPAMIDE 1.5mg m/r tablets
+b286.,NATRILIX SR 1.5mg m/r tablets
+b287.,ETHIBIDE XL 1.5mg m/r tablets
+b288.,INDIPAM XL 1.5mg m/r tablets
+b289.,MAPEMID XL 1.5mg m/r tablets
+b28z.,INDAPAMIDE 2.5mg tablets
+b29..,MEFRUSIDE
+b291.,*BAYCARON 25mg tablets
+b29z.,*MEFRUSIDE 25mg tablets
+b2a..,*METHYCLOTHIAZIDE
+b2a1.,*ENDURON 5mg tablets
+b2az.,*METHYCLOTHIAZIDE 5mg tablets
+b2b..,METOLAZONE
+b2b1.,*METENIX-5 5mg tablets
+b2b2.,*XURET 500micrograms tablets
+b2b3.,METOLAZONE 500micrograms tablets
+b2bz.,*METOLAZONE 5mg tablets
+b2c..,POLYTHIAZIDE
+b2c1.,*NEPHRIL 1mg tablets
+b2cz.,*POLYTHIAZIDE 1mg tablets
+b2d..,XIPAMIDE
+b2d1.,DIUREXAN 20mg tablets
+b2dz.,XIPAMIDE 20mg tablets
+b91c.,BENDROFLUMETHIAZIDE+POTASSIUM 2.5mg/7.7mmol m/r tablets
+b91e.,CHLORTHALIDONE tablets+POTASSIUM m/r tablets 25mg/6.7mmol pack
+b91h.,BENDROFLUMETHIAZIDE+POTASSIUM 2.5mg/8.4mmol m/r tablets
+b913.,*CENTYL K m/r tablets
+b915.,*ESIDREX K tablets
+b916.,HYGROTON K tablets combination pack
+b919.,*NAVIDREX-K tablets
+b91a.,NEO-NACLEX-K tablets
+bde1.,*CO-BETALOC tablets
+bde2.,*CO-BETALOC SA m/r tablets
+bde3.,*CORGARETIC-40 tablets
+bde4.,*CORGARETIC-80 tablets
+bde5.,*INDERETIC capsules
+bde6.,*INDEREX m/r capsules
+bde7.,KALTEN capsules
+bde9.,*LOPRESORETIC tablets
+bdeA.,METOPROLOL TART+HYDROCHLOROTHIAZIDE 100mg/12.5mg tablets
+bdeB.,METOPROLOL TART+HYDROCHLOROTHIAZIDE 200mg/25mg m/r tablets
+bdeC.,METOPROLOL TART+CHLORTHALIDONE 100mg/12.5mg tablets
+bdeD.,NADOLOL+BENDROFLUMETHIAZIDE 40mg/5mg tablets
+bdeE.,NADOLOL+BENDROFLUAZIDE 80mg/5mg tablets
+bdeG.,PINDOLOL+CLOPAMIDE 10mg/5mg tablets
+bdeH.,SOTALOL HCL+HYDROCHLOROTHIAZIDE 160mg/25mg tablets
+bdeJ.,SOTALOL HCL+HYDROCHLOROTHIAZIDE 80mg/12.5mg tablets
+bdeK.,TIMOLOL MALEATE+CO-AMILOZIDE 10mg/2.5mg/25mg tablets
+bdeL.,TIMOLOL MALEATE+BENDROFLUMETHIAZIDE 10mg/2.5mg tablets
+bdeM.,TIMOLOL MALEATE+BENDROFLUAZIDE 20mg/5mg tablets
+bdeN.,TOTARETIC 50mg/12.5mg tablets
+bdeO.,TOTARETIC 100mg/25mg tablets
+bdeP.,ATENOLOL+BENDROFLUAZIDE 25mg/1.25mg capsules
+bdeQ.,*TENBEN capsules
+bdea.,*MODUCREN tablets
+bdeb.,PRESTIM tablets
+bdec.,*PRESTIM FORTE tablets
+bded.,*SECADREX tablets
+bdee.,*SOTAZIDE tablets
+bdeg.,TENORET-50 tablets
+bdeh.,TENORETIC tablets
+bdei.,*TOLERZIDE tablets
+bdej.,*TRASIDREX tablets
+bdek.,VISKALDIX tablets
+bdel.,*CO-PRENOZIDE tablets
+bdem.,CO-TENIDONE 50/12.5mg tablets
+bden.,CO-TENIDONE 100/25mg tablets
+bdeo.,ATENIXCO 50/12.5mg tablets
+bdep.,*ATENIXCO 100/25mg tablets
+bdeq.,*TENCHLOR 50/12.5mg tablets
+bder.,*TENCHLOR 100/25mg tablets
+bdeu.,CO-PRENOZIDE 160/0.25mg m/r tablets
+bdev.,PROPRANOLOL HCL+BENDROFLUAZIDE 80mg/2.5mg capsules
+bdew.,PROPRANOLOL HCL+BENDROFLUAZIDE 160mg/5mg m/r capsules
+bdex.,ACEBUTOLOL+HYDROCHLOROTHIAZIDE 200mg/12.5mg tablets
+bdey.,ATENOLOL+CO-AMILOZIDE 50mg/2.5mg/25mg capsules
+bdf7.,*MONOZIDE-10 tablets
+bdf8.,BISOPROLOL FUMARATE+HYDROCHLOROTHIAZIDE 10mg/6.25mg tablets
+bf2j.,METHYLDOPA+HYDROCHLOROTHIAZIDE 250mg/15mg tablets
+bi1D.,*CAPTO-CO 25mg/12.5mg tablets
+bi1E.,*CAPTO-CO 50mg/25mg tablets
+bi1F.,CO-ZIDOCAPT 25mg/12.5mg tablet
+bi1G.,*CO-ZIDOCAPT 50mg/25mg tablets
+bi1b.,ACEZIDE 50mg tablets x56
+bi1c.,*CAPOZIDE 50mg tablets x28
+bi1d.,*CAPOZIDE LS 25mg tabletsx28CP
+bi1e.,CAPTOPRIL+HYDROCHLOROTHIAZIDE 25mg/12.5mg tablets
+bi1f.,CAPTOPRIL+HYDROCHLOROTHIAZIDE 50mg/25mg tablets
+bi2b.,ENALAPRIL MALEATE+HYDROCHLOROTHIAZIDE 20mg/12.5mg tablets
+bi3m.,*ZESTORETIC tablets 28CP
+bi3n.,ZESTORETIC 20/12.5mg tablets
+bi3p.,LISINOPRIL+HYDROCHLOROTHIAZIDE 20mg/12.5mg tablets
+bi3s.,ZESTORETIC 10/12.5mg tablets
+bi3t.,LISINOPRIL+HYDROCHLOROTHIAZIDE 10mg/12.5mg tablets
+bi3u.,*CARALPHA 10/12.5mg tablets
+bi3v.,*CARALPHA 20/12.5mg tablets
+bi3w.,LISICOSTAD HCT 20/12.5mg tablets
+bi3x.,LISICOSTAD HCT 10/12.5mg tablets
+bi47.,ACCURETIC tablets
+bi48.,QUINAPRIL+HYDROCHLOROTHIAZIDE 10/12.5mg tablets
+bi4F.,QUINAPRIL+HYDROCHLOROTHIAZIDE 20mg/12.5mg tablets
+bi55.,PERINDOPRIL ERBUMINE+INDAPAMIDE 4mg/1.25mg tablets
+bi56.,COVERSYL PLUS 4mg/1.25mg tablets
+bk35.,LOSARTAN POTASSIUM+HYDROCHLOROTHIAZIDE 50mg/12.5mg tablets
+bk36.,COZAAR-COMP 50mg/12.5mg tablets
+bk39.,COZAAR-COMP 100mg/25mg tablets
+bk3A.,COZAAR-COMP 100mg/12.5mg tablets
+bk3y.,LOSARTAN POTASSIUM+HYDROCHLOROTHIAZIDE 100mg/12.5mg tablets
+bk3z.,LOSARTAN POTASSIUM+HYDROCHLOROTHIAZIDE 100mg/25mg tablets
+bk4x.,VALSARTAN+HYDROCHLOROTHIAZIDE 80mg/12.5mg tablets
+bk4y.,VALSARTAN+HYDROCHLOROTHIAZIDE 160mg/25mg tablets
+bk4z.,VALSARTAN+HYDROCHLOROTHIAZIDE 160mg/12.5mg tablets
+bk47.,CO-DIOVAN 160mg/12.5mg tablets
+bk48.,CO-DIOVAN 160mg/25mg tablets
+bk49.,CO-DIOVAN 80mg/12.5mg tablets
+bk57.,COAPROVEL 150mg/12.5mg tablets
+bk58.,COAPROVEL 300mg/12.5mg tablets
+bk59.,COAPROVEL 300mg/25mg tablets
+bk5x.,IRBESARTAN+HYDROCHLOROTHIAZIDE 300mg/25mg tablets
+bk5y.,IRBESARTAN+HYDROCHLOROTHIAZIDE 300mg/12.5mg tablets
+bk5z.,IRBESARTAN+HYDROCHLOROTHIAZIDE 150mg/12.5mg tablets
+bk86.,MICARDISPLUS 40mg/12.5mg tablets
+bk87.,MICARDISPLUS 80mg/12.5mg tablets
+bk88.,MICARDISPLUS 80mg/25mg tablets
+bk8w.,TELMISARTAN+HYDROCHLOROTHIAZIDE 80mg/25mg tablets
+bk8x.,TELMISARTAN+HYDROCHLOROTHIAZIDE 40mg/12.5mg tablets
+bk8y.,TELMISARTAN+HYDROCHLOROTHIAZIDE 80mg/12.5mg tablets
+bkC..,HYDROCHLOROTHIAZIDE + OLMESARTAN
+bkC1.,OLMETEC PLUS 20mg/12.5mg tablets
+bkC2.,OLMETEC PLUS 20mg/25mg tablets
+bkC3.,OLMETEC PLUS 40mg/12.5mg tablets
+bkCx.,OLMESARTAN+HYDROCHLOROTHIAZIDE 40mg/12.5mg tablets
+bkCy.,OLMESARTAN + HYDROCHLOROTHIAZIDE 20mg/25mg tablets
+bkCz.,OLMESARTAN + HYDROCHLOROTHIAZIDE 20mg/12.5mg tablets
+bkI..,OLMESARTAN+AMLODIPINE+HYDROCHLOROTHIAZIDE
+bkI1.,SEVIKAR HCT 20mg/5mg/12.5mg tablets
+bkI2.,SEVIKAR HCT 40mg/5mg/12.5mg tablets
+bkI3.,SEVIKAR HCT 40mg/10mg/12.5mg tablets
+bkI4.,SEVIKAR HCT 40mg/5mg/25mg tablets
+bkI5.,SEVIKAR HCT 40mg/10mg/25mg tablets
+bl5i.,DILTIAZEM HYDROCHLORIDE+HYDROCHLOROTHIAZIDE 150mg/12.5mg m/r capsules
+bl5j.,*ADIZEM-XL PLUS m/r capsules
+b511.,ALDACTIDE-25 tablets
+b512.,ALDACTIDE-50 tablets
+b513.,*AMILCO tablets
+b514.,DYAZIDE tablets
+b515.,*DYTIDE capsules
+b518.,KALSPARE tablets
+b51A.,CO-TRIAMTERZIDE 50/25mg tablets
+b51C.,AMILORIDE HCL+CYCLOPENTHIAZIDE 2.5mg/250micrograms tablets
+b51E.,TRIAMTERENE+BENZTHIAZIDE 50mg/25mg capsules
+b51F.,TRIAMTERENE+CHLORTHALIDONE 50mg/25mg tablets
+b51G.,TRIAMTERENE+CHLORTALIDONE 50mg/50mg tablets
+b51O.,*SPIRO-CO 25mg tablets
+b51P.,*SPIRO-CO 50mg tablets
+b51Q.,*ZIDA-CO 5mg/50mg tablets
+b51a.,MODURET-25 tablets
+b51b.,MODURETIC tablets
+b51c.,*MODURETIC mixture
+b51d.,*NORMETIC tablets
+b51e.,*SYNURETIC tablets
+b51f.,*TRIAMCO tablets
+b51g.,*HYPERTANE-50 tablets
+b51j.,CO-AMILOZIDE 2.5/25mg tablets
+b51k.,CO-AMILOZIDE 5/50mg tablets
+b51l.,CO-AMILOZIDE 5mg/50mg/5mL mixture
+b51m.,VASETIC CO-AMILOZIDE 5/50mg tablets
+b51p.,CO-FLUMACTONE-25 tablets
+b51q.,CO-FLUMACTONE-50 tablets
+b51r.,NAVISPARE 2.5/0.25mg tablets
+b51s.,*AMILMAXCO 5/50 tablets
+b51v.,*TRIAMAXCO 50/25mg tablets
+b51w.,*KALSPARE LS tablets
+bi3k.,CARACE 20 PLUS tablets
+bi3l.,*CARACE 10 PLUS tablets
+biC7.,COVERSYL ARGININE PLUS 5mg/1.25mg tablets
+biC8.,PERINDOPRIL ARGININE+INDAPAMIDE 5mg/1.25mg tablets
+bf3a.,*DECASERPYL PLUS tablets
+b51K.,*DELVAS tablets
+bf3c.,*SERPASIL-ESIDREX tablets
+bf2f.,*HYDROMET tablets
+bi28.,INNOZIDE 20/12.5mg tablets
+d2c6.,*TENAVOID tablets
